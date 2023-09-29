@@ -1,0 +1,1 @@
+INSERT INTO [ipServidor].[nombreBaseDatos].[dbo].[nombreTabla] VALUES ('Campo 1','Campo 2','Campo n')
