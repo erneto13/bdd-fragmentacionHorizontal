@@ -62,7 +62,7 @@ Una manera sencilla de saber si las 2 computadoras estan en la misma red es haci
   5. Presiona Enter.
      El comando "ping" enviará una serie de paquetes ICMP a la computadora de destino y mostrará la respuesta, así como el tiempo que tarda en recibir una respuesta.
 
-Ten en cuenta que para hacer ping a otra computadora en una red, debes conocer su dirección IP o su nombre de host y asegurarte de que ambas computadoras estén en la misma red y que no haya bloqueos de firewall que impidan las respuestas a los paquetes ICMP (ping).
+Para hacer ping a otra computadora en una red, debes conocer su dirección IP y asegurarte de que ambas computadoras estén en la misma red y que no haya bloqueos de firewall que impidan las respuestas a los paquetes.
 
 
 # Luego le sigo, ya me dio flojera
